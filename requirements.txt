@@ -36,3 +36,4 @@ Werkzeug
 WTForms
 xgboost
 yellowbrick
+gunicorn
